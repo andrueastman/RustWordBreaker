@@ -1,0 +1,14 @@
+[package]
+name = "RustWordBreaker"
+version = "0.4.0"
+authors = ["Aokiji"]
+description = "Test word breaker"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+charabia = "0.9.0"
+
+[lib]
+crate-type = ["lib", "dylib"]
