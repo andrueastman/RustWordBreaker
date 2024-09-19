@@ -3,8 +3,8 @@
 version = 3
 
 [[package]]
-name = "RustWordBreaker"
-version = "0.4.0"
+name = "TestWordBreaker"
+version = "0.8.0"
 dependencies = [
  "charabia",
 ]

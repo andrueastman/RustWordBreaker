@@ -1,6 +1,6 @@
 [package]
-name = "RustWordBreaker"
-version = "0.4.0"
+name = "TestWordBreaker"
+version = "0.8.0"
 authors = ["Aokiji"]
 description = "Test word breaker"
 edition = "2021"
